@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Interfaces de usuario</string>
+    <string name="informacion">Información</string>
+    <string name="cerrarsesion">Cerrar Sesión</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="idioma">Idioma</string>
+    <string name="español">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="frances">Francés</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="empezar">EMPEZAR</string>
+</resources>

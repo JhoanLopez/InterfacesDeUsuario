@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it_cuenta"
+        android:title="@string/cuenta" />
+    <item
+        android:id="@+id/it_ayuda"
+        android:title="@string/ayuda" />
+    <item
+        android:id="@+id/it_informacion"
+        android:title="@string/informacion" />
+    <item
+        android:id="@+id/it_idioma"
+        android:title="@string/idioma" >
+        <menu >
+            <item
+                android:id="@+id/it_español"
+                android:title="@string/español" />
+            <item
+                android:id="@+id/it_ingles"
+                android:title="@string/ingles" />
+            <item
+                android:id="@+id/it_frances"
+                android:title="@string/frances" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/it_cerrarsesion"
+        android:title="@string/cerrarsesion" />
+</menu>
